@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1593987314 source:x:\summer_2020\c++ for c programmers\part a\codes\module_4\homework_3\main.cpp
+	<iostream>
+	<iterator>
+	<fstream>
+	<vector>
+
+1593987314 source:x:\summer_2020\c++ for c programmers\part a\codes\module_4\homework_3\jarnik-prim mst\main.cpp
+	<iostream>
+	<iterator>
+	<fstream>
+	<vector>
+

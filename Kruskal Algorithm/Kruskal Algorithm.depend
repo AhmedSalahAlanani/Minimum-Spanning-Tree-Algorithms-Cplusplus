@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593998117 source:x:\summer_2020\c++ for c programmers\part a\codes\module_4\homework_3\kruskal algorithm\main.cpp
+	<iostream>
+	<iterator>
+	<fstream>
+	<vector>
+
